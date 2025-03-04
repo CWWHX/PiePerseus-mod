@@ -43,7 +43,7 @@ invoke-static {p0}, Lcom/unity3d/player/UnityPlayerActivity;->init(Landroid/cont
 
 （最好在不替换其他变量的情况下添加，例如在 `.locals 2` 和 `const/4 v0, 0x1` 之间。）
 
-**然后在lin中添加Perseus的so文件。**
+**然后在lib中添加Perseus的so文件。**
 
 
 ## 配置
