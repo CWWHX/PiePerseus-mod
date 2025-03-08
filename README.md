@@ -4,6 +4,10 @@
 
 用于修改《碧蓝航线》，实现简单的开挂（***注意封禁！禁止修改涉及活动EX、META作战、META支援、共斗等部分的数据***）。
 
+## 配置
+
+设置文件 `Perseus.json` 位于游戏的外部文件目录中（`/sdcard/Android/data/{package-name}/files/`）。
+
 ## 配置文件中文注释
 
 [中文注释](https://github.com/CWWHX/PiePerseus-mod/blob/main/README_%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A.md)
@@ -19,7 +23,6 @@
 * [X] 移除困难模式的部分限制
 
   * [X] 移除困难模式的全部限制
-
 * [X] 指挥官信息伪装（自慰）
 * [X] ~~任何科研船蓝图可分解~~（删掉了这个功能，这个会导致账号登录的时候闪退，后续再测试）
 * [X] 增加大世界快速移动
@@ -49,10 +52,6 @@ invoke-static {p0}, Lcom/unity3d/player/UnityPlayerActivity;->init(Landroid/cont
 
 **然后在lib中添加Perseus的so文件。**
 
-
-## 配置
-
-设置文件 `Perseus.json` 位于游戏的外部文件目录中（`/sdcard/Android/data/{package-name}/files/`）。
 
 
 ## 感谢
