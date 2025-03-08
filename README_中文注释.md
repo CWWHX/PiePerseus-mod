@@ -58,7 +58,7 @@
   "FastStageMovement"快速移动
   "Skins"全皮肤
   "AutoRepeatLimit"连续作战次数
-  "ChatCommands"
+  "ChatCommands"聊天框命令
   "RemoveBBAnimation"移除舰炮开火动画
   "RemoveMoraleWarning"移除舰娘低心情警告
   "RemoveHardModeStatLimit"移除困难关卡限制
