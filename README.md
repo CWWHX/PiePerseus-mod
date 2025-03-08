@@ -4,6 +4,9 @@
 
 用于修改《碧蓝航线》，实现简单的开挂（***注意封禁！禁止修改涉及活动EX、META作战、META支援、共斗等部分的数据***）。
 
+## 配置文件中文注释
+
+[中文注释](https://github.com/CWWHX/PiePerseus-mod/blob/main/README_%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A.md)
 
 ## 功能（在原Perseus的基础上）：
 
