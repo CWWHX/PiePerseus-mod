@@ -8,7 +8,7 @@
 
 设置文件 `Perseus.json` 位于游戏的外部文件目录中（`/sdcard/Android/data/{package-name}/files/`）。
 
-## 配置文件中文注释
+## ***<u>配置文件中文注释（中文环境下建议先看中文注释！！！）</u>*** 
 
 [中文注释](https://github.com/CWWHX/PiePerseus-mod/blob/main/README_%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A.md)
 
